@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+#define zainab
+
+using namespace std;
+
+int main(){
+    
+    #ifdef ONLINE_JUDGE   //if define
+    freopen("input.txt", "r", stdin);    //freopen opens a file in cpp
+    freopen("output.txt", "w", stdout);
+    #endif
+
+    // int n;        //Ctrl–Shift–D to duplicate a line
+    // cin>>n;
+    // cout<<n;      //moves a line down, by CTRL-SHIFT-DOWN
+    // return 0;
+}
