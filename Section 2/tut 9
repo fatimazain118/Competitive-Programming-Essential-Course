@@ -1,0 +1,16 @@
+//making snippets-- its like mapping the keybord keys to the long code
+
+//here just enter cpsimple and you'll get this entire snippet
+#include<bits/stdc++.h>
+#define zainab
+
+using namespace std;
+
+int main(){
+    
+    #ifdef ONLINE_JUDGE   
+    freopen("input.txt", "r", stdin); 
+    freopen("output.txt", "w", stdout);
+    #endif
+
+}
